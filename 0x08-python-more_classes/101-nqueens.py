@@ -1,5 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/python3i
 # 101-nqueens.py
+# Adeshina Adesola
 """Solves the N-queens puzzle.
 Determines all possible solutions to placing N
 N non-attacking queens on an NxN chessboard.
