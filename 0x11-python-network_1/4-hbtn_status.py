@@ -3,7 +3,6 @@
 A Python script that fetches https://alx-intranet.hbtn.io/status
 and displays the body of the response.
 """
-
 import requests
 
 if __name__ == "__main__":
@@ -12,6 +11,6 @@ if __name__ == "__main__":
     body = response.text
 
     print("Body response:")
-    print("\t- type: {}".format(type(body)))
-    print("\t- content: {}".format(body))
+    print("\t- type: {}".format(type(text)))
+    print("\t- content: {}".format(text))
 
